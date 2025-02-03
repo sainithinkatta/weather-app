@@ -65,14 +65,9 @@ The application will be available at `http://localhost:5173/`.
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## **Contact**
 For any questions or suggestions, feel free to contact:
-- **Developer**: Sai Nithin Katta
+- **Developer**: Sai Nithin
 - **GitHub**: [sainithinkatta](https://github.com/sainithinkatta)
 
 Happy coding! 🚀
