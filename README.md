@@ -4,7 +4,7 @@ The Weather App is a responsive web application that provides real-time weather 
 
 ---
 
-Live - [Weather App](https://sainithinkatta.github.io/weather-app/)
+Live - <a href="https://sainithinkatta.github.io/weather-app/" target="_blank">Weather App</a>
 
 ---
 
