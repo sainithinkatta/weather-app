@@ -4,6 +4,10 @@ The Weather App is a responsive web application that provides real-time weather 
 
 ---
 
+Live - [Weather App](https://sainithinkatta.github.io/weather-app/)
+
+---
+
 ## **Features**
 - **Real-time Weather Data:** Displays essential weather details, including:
   - Temperature (Celsius & Fahrenheit)
