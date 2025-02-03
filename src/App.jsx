@@ -1,5 +1,5 @@
 import Weather from './components/Weather/Weather'
-import WeatherContext from './context/WeatherContext'
+import WeatherContext from './context-api/WeatherContext'
 
 import './App.css'
 
