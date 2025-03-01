@@ -1,10 +1,10 @@
 # **Weather App**
 
-The Weather App is a responsive web application that provides real-time weather information for any location worldwide. Built with React and Vite, it ensures fast and optimized performance by fetching accurate weather data from the WeatherAPI.
+Application is Live here - <a href="https://sainithinkatta.github.io/weather-app/" target="_blank">Weather App</a>
 
 ---
 
-Live - <a href="https://sainithinkatta.github.io/weather-app/" target="_blank">Weather App</a>
+The Weather App is a responsive web application that provides real-time weather information for any location worldwide. Built with React and Vite, it ensures fast and optimized performance by fetching accurate weather data from the WeatherAPI.
 
 ---
 
@@ -70,7 +70,6 @@ The application will be available at `http://localhost:5173/`.
 ---
 
 ## **Contact**
-For any questions or suggestions, feel free to contact:
 - **Developer**: Sai Nithin
 - **GitHub**: [sainithinkatta](https://github.com/sainithinkatta)
 
