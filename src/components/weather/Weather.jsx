@@ -2,7 +2,7 @@ import { useContext, useState } from 'react';
 import { weatherContext } from "../../context-api/WeatherContext";
 import Input from '../Input/Input';
 import WeatherDetails from './WeatherDetails';
-import { fetchWeatherData } from '/Users/sainithin/Desktop/weather-app/src/api/weatherApi.js';
+import { fetchWeatherData } from "../../api/weatherApi.js";
 import './weather.css';
 
 function Weather() {
