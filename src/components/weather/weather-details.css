@@ -73,6 +73,12 @@
     padding: 1rem;
 }
 
+.weather-card__temp-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
 .weather-card__info-group {
     display: flex;
     justify-content: space-between;
